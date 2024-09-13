@@ -1,0 +1,15 @@
+---
+title: "APM MCQs"
+output_dir: "docs"
+output:
+  html_document:
+    toc: false
+    toc_float: false
+    number_sections: false
+---
+
+This is a collection of Multiple Choice Questions relating to the lecture content of the L9 Applying Psychology Methods module in the BA Psychology Programme.
+
+You can use these practice questions to enhance your revision; after every lecture, and hopefully before your assessments.
+
+Choose the week you wish to revise and answer the questions there.

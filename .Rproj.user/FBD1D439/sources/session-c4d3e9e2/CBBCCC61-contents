@@ -1,0 +1,51 @@
+---
+title: "Week 2"
+output_dir: "docs"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    number_sections: true
+---
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+library(webexercises)
+```
+
+```{r, echo = FALSE, results='asis'}
+# Uncomment to change widget colours:
+style_widgets(incorrect = "goldenrod", correct = "purple")
+```
+
+<br>
+
+The topic of this week is 
+
+<br>
+
+# Question
+
+```{r echo=FALSE}
+opts_1 <- sample(c(
+   "Option A",
+   answer = "Option B",
+   "Option C"
+))
+```
+
+`r longmcq(opts_1)`
+
+<br>
+
+# Question
+
+```{r echo=FALSE}
+opts_1 <- sample(c(
+   "Option A",
+   answer = "Option B",
+   "Option C"
+))
+```
+
+`r longmcq(opts_1)`
