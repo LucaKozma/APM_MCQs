@@ -19,8 +19,6 @@ navbar:
       href: W3.html
     - text: "Week 6"
       href: W6.html
-    - text: "Week 7"
-      href: W7.html
     - text: "Week 8"
       href: W8.html
     - text: "Week 9"
@@ -29,5 +27,3 @@ navbar:
       href: W10.html
     - text: "Week 11"
       href: W11.html
-    - text: "Week 12"
-      href: W12.html
